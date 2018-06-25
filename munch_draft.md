@@ -69,12 +69,6 @@ On the face of it, this is a bizarre claim, and anathema to many animal behavior
 
 Partly because he thought that many different factors were brought to bear on the choice; integrated multiple kinds of information and could be given a factor analysis involving the subject's motivational state and the appropriateness of the goal, sensorimotor capacities, the geometric and signal structure of the environment in relation to those capacities, and any inter- or intra-subjective biases or personality factors that might affect choice. Reinforcement history was consigned to a single term in this system.
 
-
-
-
-
-
-
 He points out that many theorists were working on multifactor models like this. However, Tolman argued that actually that NO model like this could ever be complete, because of something that happens at the choice point.
 
 “I want to suggest that there also appear in maze behavior types of activity other than the simple (right and left turns)* *which we have thus far talked about. If these latter be called "achievement behaviors," then these new types of activity which I now have in mind, may be called "catalyzing behaviors." And it seems that we rat psychologists have to date rather pigheadedly (i.e., like Professor Liddell's pigs) ignored such catalyzing behaviors. 
