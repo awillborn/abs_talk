@@ -152,11 +152,6 @@ Darwin ()  both framed the question and provided a hypothesis:
 
 The puzzle is this: for flower-foraging to achieve pollination and therefor to work for the *flowers*, pollinators must visit flowers of the same species in sequence, otherwise the pollen is wasted. But the foragers are not flying around for the sake of pollinating — they are visiting the flowers to get food, and it seems that a more time and energy efficient way to forage would be, after each flower, to visit the closest flower of any type likely to yield nectar. But many pollinators, and we now know this is true for many insect groups as well as for birds and bats, exhibit a strong “history effect” wherein the likelihood of an animal actually landing and attempting to feed from a given flower, upon encountering it (i.e. approaching it closely enough to identify it) is much higher when the flower is of the same species as the lower flower visited. (Reviewed in robert j. gegear and terence m. laverty 2005; Definition of 'history effect' from Goulson and Wright 1998)
 
-
-
-Flower constancy in the hoverflies Episyrphus balteatus (Degeer) and Syrphus ribesii (L.) (Syrphidae)
-Dave Goulson and Nick P. Wright 1998
-
 The modern interpretation of what is known as Darwin's Interference Hypothesis (defined in Woodward & Laverty 1992, reviewed in Gegear and Laverty 2005) is that there is a time cost to switching between flowers, because skills improve with learning, pollinators are limited in the variations of flower-handling skills they can remember, and learning new pollination skills interferes with previously learned skills.
 
 An alternative is the 'search image' hypothesis — essentially that an image of the last flower visited is primed in memory, making the animal more likely to spot on matching the image for the next flower. This would make sense if desirable flowers were difficult to spot in their visual backgrounds, which is sometimes true, as animals such as blue jays can improve their performance on spotting cryptic targets by focusing on a single target type (Bond and Riley 1991, reviewed in Gegear and Laverty 2005)
@@ -189,27 +184,25 @@ Also, to add another dimension, Chittka (2005) emphasizes the role of individual
 
 <img src='images/bee_routes.png'>
 
-**REPRODUCED TOTALLY WITHOUT PERMISSION FROM Chittka 2017**
+REPRODUCED TOTALLY WITHOUT PERMISSION FROM Chittka 2017
 
 (A) A worker bee with a harmonic radar transponder attached to its back (photo by L. Chittka). (B) On its first day, the bee makes two excursions, looping in various directions around its hive, in the process memorizing the location of the hive, and landmarks in its vicinity. (C) On day 2, the bee begins by making another orientation loop in the (previously unexplored) Southwesterly direction, and then discovers a flower foraging patch that she visits exclusively until day 6 of her foraging career. (D) Following a few days of bad weather, the bee resumes her activity by first visiting the familiar patch on day 9, but then, on day 10 ‘changes her mind’ halfway along a flight to this patch and flies instead to a different location she had explored only once, 9 days earlier, during an orientation flight. She then visits this location exclusively for the rest of her life until day 13 (panels B–D by Joe Woodgate, Andrew Riche and March Castle).
 
+We have not fully solved the puzzle of pollinator constancy, nor should we expect to fully understand it any time soon. To understand a deceptively simple choice, you need to know the Umwelt of the pollinator—and not just the signals there, but the complexity of extracting invariant relationships among sensory and motor 'signs' (i.e. building up object-intentionality), and the spatial and temporal structure of the animal's awareness of its environment, as well as what goals motivate the animal's choice. This choice is a fundamentally integrated and stateful process *not* decomposable into a set of force variables determining an outcome--as both Von Uexkull and Tolman would have agreed.
 
-
-We have not fully solved the puzzle of pollinator constancy, nor should we expect to fully understand it any time soon.
-To understand a deceptively simple choice, you need to know the Umwelt of the pollinator—and not just the signals there, but the complexity of extracting invariant relationships among sensory and motor 'signs' (i.e. building up object-intentionality), the spatial and temporal structure of the animal's awareness of its environment. It is not decomposable, as both Von Uexkull and Tolman would have agreed.
-
-Menzel has restricted his focus to bees, but even so, has noticed that memory dynamics may be important in explaining differences between honeybees and bumble-bees. What about moths, butterflies, hoverflies, tens of thousands of lesser known groups of pollinating bees, wasps and flies, birds, bats, and other pollinating mammals such as monkeys? Menzel claims that the memory dynamics of the 5 stage consolidation process in bees may be tuned to the spatial structure of bees environments, with, for example, the late-short-term memory consolidation window corresponding roughly to a bees typical visit to a flower patch, allowing for the bee to use specific, localized memory of the patch it has just visited (and perhaps the last patch), with more temporally general information about conditions on the day (medium-term memory), and with context and location-specific conditions about the bee's entire foraging territory and the way it varies over time from long-term-memory. Pollinators may be constant for a variety of reasons, and constancy probably varies among species as well as between individuals of a species due a complex nexus of contextual factors, personality characteristics (e.g. bold/shy, high-/low-sociality), not just 'memory capacity' but perhaps relative capacity along a number of dimensions of variation, and aspects of learning style as well as individual history.
+Menzel has restricted his focus to bees, but even so, has noticed that memory dynamics may be important in explaining differences in constancy-related behavior between honeybees and bumble-bees. What about moths, butterflies, hoverflies, lesser known groups of pollinating solitary bees, wasps and flies, birds, bats, and other pollinating mammals such as monkeys? Menzel claims that the memory dynamics of the 5 stage consolidation process in bees may be tuned to the spatial structure of bees environments, with, for example, the late-short-term memory consolidation window corresponding roughly to a bees typical visit to a flower patch, allowing for the bee to use specific, localized memory of the patch it has just visited (and perhaps the last patch), with more temporally general information about conditions on the day (medium-term memory), and with context and location-specific conditions about the bee's entire foraging territory and the way it varies over time from long-term-memory. Pollinators may be constant for a variety of reasons, and constancy probably varies among species as well as between individuals of a species due a complex nexus of contextual factors, personality characteristics (e.g. bold/shy, high-/low-sociality), not just 'memory capacity' but perhaps relative capacity along a number of dimensions of variation, and aspects of learning style as well as individual history.
 
 These questions harken back to Spencer's exploration of the phylogenetic possibility space for time and space, encouraging us to consider the possibility space in relation to a Tolmanian analysis of the choice point:
+
 What is the temporal and spatial structural of bees' awareness of the world? How does it shape their expectations from moment to moment? How does awareness manifest in action? What is the structure of their choice? To what extent are these structural properties evolutionarily plastic or invariant, and what are their phylogenetic distributions?
 
 The combined toolkit of Skinner's Behaviorism and the Dawkins-esque optimality approach seems to leave us unable to even grasp the problem, because they leave both the animal and the moment of its choice out of scope.
 
 **Further use of the choice-point as a lense: social recognition**
 
-Finding an appropriate choice point to serve as a productive experimental system can reveal hidden structure in the animal's understanding of the environment. an example of this is the broad topic of social recognition—how do animals classify other animals, especially their conspecifics? can they recognize group-mates? can they assess kinship? can they recognize individuals and recall anything specific information from the history of their interactions?
+Finding an appropriate choice point to serve as a productive experimental system can reveal hidden structure in the animal's understanding of the environment. The broad topic of social recognition is an example of an empirically obscure and theoretically murky domain that promises rich rewards in terms of hidden behavioral complexity if only we have the tools to reveal it—how do animals classify other animals: Do they recognize species membership? Do they recognize group-mates? Do they assess kinship? Do they recognize individuals and recall specific information from the history of their interactions?
 
-to answer these questions for a given species you have to know the right choice point where the distinction matters. in other words, you have to know something about the animal's goals and landscape of potential means to achieving them in a context. Choice points involving the following behaviors have been used to document individual specific recognition in the respective animals(Reviewed in Aquiloni and Tricarico 2015):
+To answer these questions for a given species you have to know of a choice point where the distinction matters. in other words, you have to know something about the animal's goals and landscape of potential means to achieving them in a context. Choice points involving the following behaviors have been used to document individual specific recognition in the respective animals(Reviewed in Aquiloni and Tricarico 2015):
 
 
 * dyadic predator inspection in fish (Bshary 2006, Griffiths and Ward 2006, Hsu, Earley and Wolf 2006)
@@ -222,11 +215,10 @@ to answer these questions for a given species you have to know the right choice 
 
   
 
-
-
 **REFERENCES**
 
-
+Flower constancy in the hoverflies Episyrphus balteatus (Degeer) and Syrphus ribesii (L.) (Syrphidae)
+Dave Goulson and Nick P. Wright 1998
 
 Fish Cognition and Behavior 2006, ed. Brown and Laland:
 
