@@ -22,7 +22,7 @@ One of the themes of the work was that many of the bodily forms of expression of
 
 It was also clear that Darwin thought that cognitive mental behavior such as spatial judgment and planning was biologically significant and could be rigorously investigated. His experiments with worms (1881 ) showed that the way worms manipulated leaves and other objects in constructing their burrows was probably not due to chance with respect to the spatial structure of the object, and inferred that it must involve judgment of that spatial structure by the worm. Darwin ruled out 'instinct' by presenting leaves and artificial objects the worms would not have encountered historically, and also ruled out trial and error learning, although he did think that “to act in this manner and to try different methods makes a near approach to intelligence”. But Darwin was even more impressed by cases where his experiment appeared to show that “the worms judged with a considerable degree of correctness how best to draw the withered leaves of this foreign plant into their burrows”, particularly when this specific judgment required them to “depart from their usual habit” in one way or another.
 
-In Principles of Psychology, Spencer laid out an ambitious program for understanding the mind in a way that was continuous with other natural sciences and could not be cleanly separated from it:
+In his influential *Principles of Psychology*, Spencer laid out an ambitious program for understanding the mind in a way that was continuous with other natural sciences and could not be cleanly separated from it:
 
 “Biology is a specialized part of Geogeny [Geology], dealing with peculiar aggregates of peculiar chemical compounds formed of the Earth's superficial elements—aggregates which…also exert certain general actions and reactions on one another. And Psychology is a specialized part of Biology, limited in its application to the higher division of these peculiar aggregates, and occupying itself exclusively with those special actions and reactions which they display, from instant to instant, in their converse with the objects, animate and inanimate, amid which they move.” ([Spencer, 1881, Volume 1, p. 138](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1592350/#jeab-86-01-01-Spencer3))
 
@@ -56,6 +56,10 @@ From Tolman 1938:
 It will be contentded by us (if not by Watson) that “Behavior-acts”, though no doubt in complete one-to-one correspondence with the underlying molecular facts of physics and physiology, have as 'molar' wholes, certain emergent properties of their own. And it is these, the molar properties of behavior-acts, which are of prime interest to us as psychologists.”
 
 What are these properties?
+
+
+
+
 
 “To sum up, the complete descriptive identification of any behavior act per se requires descriptive statements relative to:
 
