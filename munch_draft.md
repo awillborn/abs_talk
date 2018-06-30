@@ -189,9 +189,9 @@ Also, to add another dimension, Chittka (2005) emphasizes the role of individual
 
 <img src='images/bee_routes.png'>
 
+**REPRODUCED TOTALLY WITHOUT PERMISSION FROM Chittka 2017**
+
 (A) A worker bee with a harmonic radar transponder attached to its back (photo by L. Chittka). (B) On its first day, the bee makes two excursions, looping in various directions around its hive, in the process memorizing the location of the hive, and landmarks in its vicinity. (C) On day 2, the bee begins by making another orientation loop in the (previously unexplored) Southwesterly direction, and then discovers a flower foraging patch that she visits exclusively until day 6 of her foraging career. (D) Following a few days of bad weather, the bee resumes her activity by first visiting the familiar patch on day 9, but then, on day 10 ‘changes her mind’ halfway along a flight to this patch and flies instead to a different location she had explored only once, 9 days earlier, during an orientation flight. She then visits this location exclusively for the rest of her life until day 13 (panels B–D by Joe Woodgate, Andrew Riche and March Castle).
-
-
 
 
 
@@ -212,13 +212,30 @@ Finding an appropriate choice point to serve as a productive experimental system
 to answer these questions for a given species you have to know the right choice point where the distinction matters. in other words, you have to know something about the animal's goals and landscape of potential means to achieving them in a context. Choice points involving the following behaviors have been used to document individual specific recognition in the respective animals(Reviewed in Aquiloni and Tricarico 2015):
 
 
-* dyadic predator inspection in fish
+* dyadic predator inspection in fish (Bshary 2006, Griffiths and Ward 2006, Hsu, Earley and Wolf 2006)
+
 * hermit crab shell trading
+
 * mantis shrimp burrow contests
+
 * crayfish dominance displays
+
+  
+
 
 
 **REFERENCES**
+
+
+
+Fish Cognition and Behavior 2006, ed. Brown and Laland:
+
+- Bshary 2006 Machiavellian Intelligence in Fishes 
+- Griffiths and Ward 2006 Social Recognition of Conspecifics 
+- Hsu, Earley and Wolf 2006 Aggressive Behaviour in Fish: Integrating Information about  Contest Costs 
+
+Chittka 2017 Bee cognition. Current Biology Magazine 
+
 Aquiloni and Tricarico 2015 Social Recognition in Invertebrates
 Dukas 2005. Effects of predation risk on pollinators and plants
 Behaviorism, Private Events, and the Molar View of Behavior [William M Baum](https://www.ncbi.nlm.nih.gov/pubmed/?term=Baum%20WM%5BAuthor%5D&cauthor=true&cauthor_uid=22532740) 2002
