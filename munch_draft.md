@@ -103,6 +103,10 @@ It is possible that the most rapid progress toward an understanding of learning 
 
 'Common sense' could replace burdensome, unproductive theory, and we do not need a theory of the mind at all, as long as we reclassify phenomena formerly regarded as mental, such as recollection, imagination, visual and spatial memory, motivations, love, etc., as not 'mental' at all, but just internal behavior, subject to the same laws of reinforcement as external behavior (Skinner 1974).
 
+"A "mental apparatus," for example, no longer finds a useful place in the experimental analysis of behavior, but it survives in discussions of phylogenic contingencies... Unable to show how the organism can behave effectively under complex circumstances, we endow it with a special cognitive ability which permits it to do so. Once the contingencies are understood, we no longer need to appeal to men- talistic explanations. Other concepts replaced by a more effective analysis include "need" or "drive" and "emotion." SKinner 1966
+
+
+
 And just in case there is anything left over, it is epiphenomenal and we may ignore it:
 
 “a susceptibility to reinforcement is due to its survival value and not to any associated feelings. . . . A person may report that a substance tastes good, but it does not elicit salivation because it tastes good. Similarly, we pull our hand away from a hot object, but not because the object feels painful. The behavior occurs because appropriate mechanisms have been selected in the course of evolution. The feelings are merely collateral products” (Skinner 1974 p 52)
@@ -241,7 +245,10 @@ Chittka 2017 Bee cognition. Current Biology Magazine
 Aquiloni and Tricarico 2015 Social Recognition in Invertebrates
 Dukas 2005. Effects of predation risk on pollinators and plants
 Behaviorism, Private Events, and the Molar View of Behavior [William M Baum](https://www.ncbi.nlm.nih.gov/pubmed/?term=Baum%20WM%5BAuthor%5D&cauthor=true&cauthor_uid=22532740) 2002
-Skinner 1950 **ARE THEORIES OF LEARNING NECESSARY? http://psychclassics.yorku.ca/Skinner/Theories/**
+Skinner 1950 **ARE THEORIES OF LEARNING NECESSARY? http://psychclassics.yorku.ca/Skinner/Theories/
+
+The Phylogeny and Ontogeny of Behavior Author(s): B. F. Skinner Source: Science, New Series, Vol. 153, No. 3741 (Sep. 9, 1966), pp. 1205-1213
+
 EC **Tolman**, CH Honzik 1930 [Introduction and removal of reward, and maze performance in rats.](http://doi.apa.org/psycinfo/1931-02280-001)
 The Determiners of Behavior at a Choice Point; Edward Chace Tolman ***Psychological ******Review. ***`1938.45, `**1-41.**
 Skinner, B. F. (1974). About behaviorism. New York: Knopf.
